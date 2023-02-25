@@ -54,7 +54,7 @@ and State Representative) to wards, precincts, and sub-precincts. This
 information is included in the file `ma_districts_precincts_2022.csv`
 and also the GeoJSON and Shapefile attributes.
 
-## 2022 Election Result
+## 2022 General Election Results
 
 The file `ma_general_by_precinct_2022_11_08.csv` contains the general
 election results for U.S. House, Governor's Council, State Senate, and
@@ -72,7 +72,7 @@ State Representative with the following columns:
 |name_third_party  |Laura L. Saylor     |
 |name_write_in     |                    |
 |party_third_party |Workers Party       |
-|party_write_in    |NA                  |
+|party_write_in    |                    |
 |election_id       |154413              |
 |votes_dem         |599                 |
 |votes_gop         |485                 |

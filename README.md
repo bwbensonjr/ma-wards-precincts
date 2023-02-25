@@ -54,7 +54,35 @@ and State Representative) to wards, precincts, and sub-precincts. This
 information is included in the file `ma_districts_precincts_2022.csv`
 and also the GeoJSON and Shapefile attributes.
 
-## Example Maps
+## 2022 Election Result
+
+The file `ma_general_by_precinct_2022_11_08.csv` contains the general
+election results for U.S. House, Governor's Council, State Senate, and
+State Representative with the following columns:
+
+|column            |value               |
+|:-----------------|:-------------------|
+|office            |State Senate        |
+|district          |Bristol and Norfolk |
+|city_town         |North Attleborough  |
+|Ward              |-                   |
+|Pct               |5                   |
+|name_dem          |Paul R. Feeney      |
+|name_gop          |Michael Chaisson    |
+|name_third_party  |Laura L. Saylor     |
+|name_write_in     |                    |
+|party_third_party |Workers Party       |
+|party_write_in    |NA                  |
+|election_id       |154413              |
+|votes_dem         |599                 |
+|votes_gop         |485                 |
+|votes_third_party |41                  |
+|votes_write_in    |                    |
+|all_others        |0                   |
+|blanks            |36                  |
+|total_votes_cast  |1161                |
+
+## District/Precinct Maps
 
 ![U.S. House Districts by Precinct](maps/us_house_map.png)
 

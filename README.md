@@ -26,11 +26,11 @@ the original parent precincts and then took the set of smaller parent
 precincts, the unaffected precincts, and the vote-containing
 sub-precincts.
 
-![Somerville 2021 Wards/Precincts](maps/example_wards_pcts.png)
+![Somerville 2021 Wards/Precincts](maps/example_wards_pcts.png|width=720)
 
-![Somerville Sub-Precincts](maps/example_sub_pcts.png)
+![Somerville Sub-Precincts](maps/example_sub_pcts.png|width=720)
 
-![Somerville Wards/Precincts/Sub-Precincts](maps/example_wards_pcts_subs.png)
+![Somerville Wards/Precincts/Sub-Precincts](maps/example_wards_pcts_subs.png|width=720)
 
 
 The precinct-level election results from `electionstats` gave the

@@ -1,15 +1,30 @@
-# ma-wards-precincts
+# Massachusetts 2021 Wards/Precincts/Sub-Precincts
 
 A GIS description of 2021 versions of Massachusetts elections wards,
-precincts, and sub-precincts, a mapping of U.S. House, Governor's
-Council, State Senate, and State Representative districts to those
-precincts, and results from the November 8, 2022 general election
-at the same precinct level.
+precincts, and sub-precincts generated from the MassGIS Ward/Precincts
+geometries, modified to include sub-precincts from the Secretary
+of the Commonwealth created during redistricting of Congressional
+and State Legislative redistricting.
+
+This repository also includes a mapping of U.S. House, Governor's
+Council, State Senate, and State Representative districts to the
+calculated precincts, and results from the November 8, 2022 general
+election at the same precinct level.
 
 ## Precinct Geometry
 
 - GeoJSON - `ma_wards_precincts_w_subs.geojson`
 - Shapefile - `ma_wards_pcts/ma_wards_precincts_w_subs.shp`
+
+The GIS attributes include:
+
+- `city_town`
+- `Ward`
+- `Pct`
+- `State_Rep` - State Representative District
+- `State_Senate` - State Senate District
+- `US_House` - U.S. House District
+- `Gov_Council` - Governor's Council District
 
 ## Source Data
 
